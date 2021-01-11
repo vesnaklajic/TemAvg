@@ -1,7 +1,11 @@
 # TemAvg
 Average Daily Temperature (IOC)
 
+<<<<<<< HEAD
 Goal//
+=======
+Goal// 
+>>>>>>> 3334f967d2e1c67be2b642331c5ff6e9275682d6
 Using Inversion of the control 
 
 Functional requirements//
@@ -9,6 +13,7 @@ The application will calcul the average dayily temperature based on the data fro
 For the begging the sum of the dailys temperatures will be entered manualy
 
 Techical requirements// 
+<<<<<<< HEAD
 All the parts of the application needs to be open for the extension and closed for the modification. 
 
 V1 dependency injection using static way//
@@ -17,6 +22,11 @@ DAO and METIER are closed for the modification and open for the extensions. But 
 V2 dependency injection using Spring annotaton//
 All the 3 tiers are closed for the modification and open to the extension 
 
+=======
+V1 dependency injection using static way
+V2 dependency injection using Spring annotation 
+
+>>>>>>> 3334f967d2e1c67be2b642331c5ff6e9275682d6
 Tools//
 Java 
 Spring

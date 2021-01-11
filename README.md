@@ -2,7 +2,6 @@
 Average Daily Temperature (IOC)
 
 Goal//
-=======
 Using Inversion of the control 
 
 Functional requirements//

@@ -10,7 +10,7 @@ For the begging the sum of the dailys temperatures will be entered manualy
 
 Techical requirements// 
 V1 dependency injection using static way
-V2 dependency injection using Spring annotaton 
+V2 dependency injection using Spring annotation 
 
 Tools//
 Java 

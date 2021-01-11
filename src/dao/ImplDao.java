@@ -7,7 +7,7 @@ public class ImplDao implements Idao {
 		/*
 		 * Se connecter à la BD pour récupérer la température
 		 */
-		double data = 56;
+		double data = 48;
 		return data;
 	}
 

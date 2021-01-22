@@ -1,7 +1,7 @@
 # TemAvg
 Average Daily Temperature (IOC)
 
-Goal//
+Goal First-Commit
 Using Inversion of the control 
 
 Functional requirements//
